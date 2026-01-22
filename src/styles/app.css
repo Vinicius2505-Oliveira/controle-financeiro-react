@@ -1,0 +1,14 @@
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
